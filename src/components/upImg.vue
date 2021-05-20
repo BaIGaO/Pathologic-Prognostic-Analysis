@@ -8,7 +8,7 @@
       <div class="upImg">
         <el-upload
         class=""
-        action="http://172.16.131.216:8888/detect"
+        action="https://dev.ankon-hospital.com:8888/detect"
         name="img"
         list-type="text"
         :show-file-list="false"
@@ -49,7 +49,7 @@
           <div class="button">
             <el-upload
             class=""
-            action="http://172.16.131.216:8888/detect"
+            action="https://dev.ankon-hospital.com:8888/detect"
             name="img"
             list-type="text"
             :show-file-list="false"
@@ -352,7 +352,7 @@ export default {
         });
         this.$axios({
             method:'post',
-            url:'http://172.16.131.216:8888/detect_risk_single', 
+            url:'https://dev.ankon-hospital.com:8888/detect_risk_single', 
             data:formdata,
             headers:{
               "Content-Type":" multipart/form-data",
