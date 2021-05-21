@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4709bfa4-8abe-4f03-b65f-7246d5d82ba7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8365d34a-6dca-410b-a5e8-d2f5855844cc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Pathologic-Prognostic-Analysis.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/app.d8e948e0db3992994cc215516cced5bf.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/app.d8e948e0db3992994cc215516cced5bf.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/app.f3dcf75237c19c6b5ee7724c4023e9c1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/app.f3dcf75237c19c6b5ee7724c4023e9c1.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/0.0139709211b7c0213fe4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/0.0139709211b7c0213fe4.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/1.f35182ba19209b4f1baf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/1.f35182ba19209b4f1baf.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/app.9cd4b9465c7272359a34.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/app.9cd4b9465c7272359a34.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/app.c1a33d71a6c74a25cfe4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/manifest.3ad1d5771e9b13dbdad2.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/manifest.a307ac055bf506459c26.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/vendor.8c356f7a407419cf75ed.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/vendor.b56f79e6887965aa8f69.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/vendor.b56f79e6887965aa8f69.js.map" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,9 +35,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1snUB0fwlmBZLvCUvN416mGoRjA" />
+  <component name="ProjectId" id="1sq2lW1pCFWWjFfiTEYWw7n8iWa" />
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -37,21 +57,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4709bfa4-8abe-4f03-b65f-7246d5d82ba7" name="Default Changelist" comment="" />
-      <created>1621507707233</created>
+      <changelist id="8365d34a-6dca-410b-a5e8-d2f5855844cc" name="Default Changelist" comment="" />
+      <created>1621585949700</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1621507707233</updated>
-      <workItem from="1621507708453" duration="712000" />
+      <updated>1621585949700</updated>
+      <workItem from="1621585952185" duration="13000" />
     </task>
-    <task id="LOCAL-00001" summary="[feat] 接口路径修改">
-      <created>1621507783815</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1621507783815</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,9 +79,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="[feat] 接口路径修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat] 接口路径修改" />
   </component>
 </project>
