@@ -4,10 +4,16 @@
     <list default="true" id="7e0612e4-331a-4532-840b-4c77e05d09cc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/app.f7d43ab46b690775b9ea17468c7a08bb.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/app.f7d43ab46b690775b9ea17468c7a08bb.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/manifest.7a2e8cddf37dc169a584.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/manifest.7a2e8cddf37dc169a584.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/app.8adfa6925cae1fd6334addea3ddf8bab.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/app.8adfa6925cae1fd6334addea3ddf8bab.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/0.8556d8321b173f55a1f1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/0.8556d8321b173f55a1f1.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/1.fbd9f3aecdbdc6a28ed9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/1.fbd9f3aecdbdc6a28ed9.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/app.b21b83117c8cbd551481.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/app.b21b83117c8cbd551481.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/manifest.2a9bc931b3bfc9434d24.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/manifest.2a9bc931b3bfc9434d24.js.map" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1621821366144</updated>
-      <workItem from="1621821368489" duration="1136000" />
+      <workItem from="1621821368489" duration="1434000" />
     </task>
     <task id="LOCAL-00001" summary="[feat] 测试页面打开速度">
       <created>1621821408520</created>
@@ -60,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621822394123</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="[feat] 加载图片路径测试">
+      <created>1621822741753</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1621822741753</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,6 +93,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[feat] 测试页面打开速度" />
     <MESSAGE value="[feat] 加载图片路径" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat] 加载图片路径" />
+    <MESSAGE value="[feat] 加载图片路径测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat] 加载图片路径测试" />
   </component>
 </project>
